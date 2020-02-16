@@ -1,25 +1,32 @@
 # Angular 2+ warsztat dla początkujących
-Warsztat z Frameworka Angular 2+ z TypeScript dla pocżtkujących. 
-Czas trwania warsztatu 2dni
+> Warsztat z frameworka Angular 2+ używając TypeScript dla początkujących. 
+> Czas trwania warsztatu 2dni
 
+![](https://www.techcronus.com/wp-content/uploads/2019/07/Why-Angular-Is-The-Best-Framework-For-Web-App-Development-What-makes-Angular-a-great-framework_.png)
 
-•	cel i zasady szkolenia;
-•	SPA - co wnosi nowego vs MPA (Multi Page Application);
-•	jak działa SPA;
-•	Framework Angular;
-•	środowisko niezbędne do programowania aplikacji;
-•	TypeScript;
-•	narzędzia do programowania w Angular (nodejs, ng cli, ide);
-•	pierwszy projekt;
-•	struktura projektu;
-•	omówienie modelu stanu two-way-data-binding;
-•	dyrektywa - co to jest;
-•	component - co to jest;
-•	moduł - co to jest; 
-•	dekorator - co to jest;
-•	routing - co to jest oraz jak działa;
-•	DI - Dependency injection;
-•	REST - Praca z zewnętrznym źródłem danych;
-•	hosting aplikacji za pomocą kontenera www.netlify.com 
-z repozytorium kodu;
-•	podsumowanie oraz zakończenie szkolenia.
+## Etapy szkolenia 
+
+#### 1. Wprowadzenie 
+* [x] Cel i zasady szkolenia;
+* [x] SPA - co wnosi nowego vs MPA (Multi Page Application);
+* [x] Jak działa SPA;
+* [x] Framework Angular;
+* [x] Środowisko niezbędne do programowania aplikacji;
+
+#### 2. Aspekty techniczne 
+* [x] TypeScript;
+* [x] Narzędzia do programowania w Angular (nodejs, ng cli, ide);
+* [x] Pierwszy projekt;
+* [x] Struktura projektu;
+* [x] Omówienie modelu stanu two-way-data-binding;
+* [x] Dyrektywa - co to jest;
+* [x] Component - co to jest;
+* [x] Moduł - co to jest; 
+* [x] Dekorator - co to jest;
+* [x] Routing - co to jest oraz jak działa;
+* [x] DI - Dependency injection;
+* [x] REST - Praca z zewnętrznym źródłem danych;
+
+#### 3. Zakończenie 
+* [x] Hosting aplikacji za pomocą www.netlify.com  z repozytorium kodu;
+* [x] Podsumowanie oraz zakończenie szkolenia.
