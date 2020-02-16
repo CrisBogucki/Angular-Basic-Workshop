@@ -7,26 +7,26 @@
 ## Etapy szkolenia 
 
 #### 1. Wprowadzenie 
-* [x] Cel i zasady szkolenia;
-* [x] SPA - co wnosi nowego vs MPA (Multi Page Application);
-* [x] Jak działa SPA;
-* [x] Framework Angular;
-* [x] Środowisko niezbędne do programowania aplikacji;
+* [ ] Cel i zasady szkolenia;
+* [ ] SPA - co wnosi nowego vs MPA (Multi Page Application);
+* [ ] Jak działa SPA;
+* [ ] Framework Angular;
+* [ ] Środowisko niezbędne do programowania aplikacji;
 
 #### 2. Aspekty techniczne 
-* [x] TypeScript;
-* [x] Narzędzia do programowania w Angular (nodejs, ng cli, ide);
-* [x] Pierwszy projekt;
-* [x] Struktura projektu;
-* [x] Omówienie modelu stanu two-way-data-binding;
-* [x] Dyrektywa - co to jest;
-* [x] Component - co to jest;
-* [x] Moduł - co to jest; 
-* [x] Dekorator - co to jest;
-* [x] Routing - co to jest oraz jak działa;
-* [x] DI - Dependency injection;
-* [x] REST - Praca z zewnętrznym źródłem danych;
+* [ ] TypeScript;
+* [ ] Narzędzia do programowania w Angular (nodejs, ng cli, ide);
+* [ ] Pierwszy projekt;
+* [ ] Struktura projektu;
+* [ ] Omówienie modelu stanu two-way-data-binding;
+* [ ] Dyrektywa - co to jest;
+* [ ] Component - co to jest;
+* [ ] Moduł - co to jest; 
+* [ ] Dekorator - co to jest;
+* [ ] Routing - co to jest oraz jak działa;
+* [ ] DI - Dependency injection;
+* [ ] REST - Praca z zewnętrznym źródłem danych;
 
 #### 3. Zakończenie 
-* [x] Hosting aplikacji za pomocą www.netlify.com  z repozytorium kodu;
-* [x] Podsumowanie oraz zakończenie szkolenia.
+* [ ] Hosting aplikacji za pomocą www.netlify.com  z repozytorium kodu;
+* [ ] Podsumowanie oraz zakończenie szkolenia.
