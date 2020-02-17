@@ -16,8 +16,8 @@
 #### 2. Aspekty techniczne 
 * [x] TypeScript; [TypeScript vs JavaScript](https://github.com/CrisBogucki/TypeScript_vs_JavaScript)
 * [x] Narzędzia do programowania w Angular (nodejs, ng cli, ide);
-* [x] Pierwszy projekt;
-* [ ] Struktura projektu;
+* [x] Struktura projektu;
+* [ ] Pierwszy projekt;
 * [ ] Omówienie modelu stanu two-way-data-binding;
 * [ ] Dyrektywa - co to jest;
 * [ ] Component - co to jest;
