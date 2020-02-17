@@ -7,16 +7,16 @@
 ## Etapy szkolenia 
 
 #### 1. Wprowadzenie 
-* [ ] Cel i zasady szkolenia;
+* [x] Cel i zasady szkolenia;
 * [ ] SPA - co wnosi nowego vs MPA (Multi Page Application);
 * [ ] Jak działa SPA;
 * [ ] Framework Angular;
-* [ ] Środowisko niezbędne do programowania aplikacji;
+* [x] Środowisko niezbędne do programowania aplikacji;
 
 #### 2. Aspekty techniczne 
-* [ ] TypeScript; [TypeScript vs JavaScript](https://github.com/CrisBogucki/TypeScript_vs_JavaScript)
-* [ ] Narzędzia do programowania w Angular (nodejs, ng cli, ide);
-* [ ] Pierwszy projekt;
+* [x] TypeScript; [TypeScript vs JavaScript](https://github.com/CrisBogucki/TypeScript_vs_JavaScript)
+* [x] Narzędzia do programowania w Angular (nodejs, ng cli, ide);
+* [x] Pierwszy projekt;
 * [ ] Struktura projektu;
 * [ ] Omówienie modelu stanu two-way-data-binding;
 * [ ] Dyrektywa - co to jest;
