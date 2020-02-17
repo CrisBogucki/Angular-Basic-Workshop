@@ -10,7 +10,7 @@
 * [x] Cel i zasady szkolenia;
 * [x] SPA - co wnosi nowego vs MPA (Multi Page Application);
 * [x] Jak działa SPA;
-* [ ] Framework Angular;
+* [x] Framework Angular;
 * [x] Środowisko niezbędne do programowania aplikacji;
 
 #### 2. Aspekty techniczne 
