@@ -1,4 +1,4 @@
-# TypeScript vs JavaScript
+# TypeScript
 > Omówienie var scope vs lec const oraz quiz dla rozluźnienia :-)
 
 #### Install
