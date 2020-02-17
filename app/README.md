@@ -1,4 +1,5 @@
-# WorkshopNgApp
+# Angular app
+> Sample app for workshop
 
 #### Development
  - Run `ng serve -o` for a dev server with open in browser. 
