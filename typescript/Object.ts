@@ -53,9 +53,9 @@ let personNew: IPerson = { firstname:'Krzysztof', lastname:'Bogucki', age:18 };
 
 
 let newPointFromJson: IPerson[] = JSON.parse("[{\"firstname\":\"Krzysztof\", \"lastname\":\"Bogucki\", \"age\":18}]");
-//console.log(newPointFromJson);
+console.log(newPointFromJson);
 
-for(let i=0; i<newPointFromJson.length; i++) {
+for(let i=0; i<newPointFromJson.length; i++) {3
     //console.log(newPointFromJson[i]);
     //console.log(newPointFromJson[i].lastname);
     //console.log(newPointFromJson[i].age);

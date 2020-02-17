@@ -24,9 +24,9 @@ var personNew = { firstname: 'Krzysztof', lastname: 'Bogucki', age: 18 };
 //console.log(personNew.lastname);
 //console.log(personNew.age);
 var newPointFromJson = JSON.parse("[{\"firstname\":\"Krzysztof\", \"lastname\":\"Bogucki\", \"age\":18}]");
-//console.log(newPointFromJson);
+console.log(newPointFromJson);
 for (var i = 0; i < newPointFromJson.length; i++) {
-    //console.log(newPointFromJson[i]);
-    //console.log(newPointFromJson[i].lastname);
-    //console.log(newPointFromJson[i].age);
+    console.log(newPointFromJson[i]);
+    console.log(newPointFromJson[i].lastname);
+    console.log(newPointFromJson[i].age);
 }
