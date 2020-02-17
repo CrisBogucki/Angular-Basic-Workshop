@@ -2,7 +2,7 @@
 > Sample app for workshop
 
 #### Development
- - Run `ng serve -o` for a dev server with open in browser. 
+ - Run `ng serve -o --port 8080` for a dev server with open in browser. 
 
 ### Build
  - Run `ng build` to build the project.
