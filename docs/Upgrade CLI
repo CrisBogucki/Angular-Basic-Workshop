@@ -1,0 +1,28 @@
+#Upgrade 
+ng --version
+
+# To update the latest angular-cli package installed globally in your system, you need to run the following commands.
+
+sudo npm uninstall -g angular-cli // For Mac
+npm uninstall -g angular-cli // For Windows Open Powershell on Administrator Mode
+
+# Then we need to clear the cache using the following command.
+sudo npm cache verify
+
+# Then you need to hit the following command.
+sudo npm cache clean
+
+# Now, install the Angular CLI using the following command.
+sudo npm install -g @angular/cli@latest
+
+#After updating both the global and local package, clear the cache to avoid errors.
+sudo npm cache verify
+npm cache clean (for older npm versions)
+
+# Update Angular Packages
+# If you have created an Angular project, then go inside that folder and type the following command.
+ng update @angular/core
+
+#Upgrading RxJS
+#You can update RxJS using the ng update command.
+ng update rxjs
