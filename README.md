@@ -8,8 +8,8 @@
 
 #### 1. Wprowadzenie 
 * [x] Cel i zasady szkolenia;
-* [ ] SPA - co wnosi nowego vs MPA (Multi Page Application);
-* [ ] Jak działa SPA;
+* [x] SPA - co wnosi nowego vs MPA (Multi Page Application);
+* [x] Jak działa SPA;
 * [ ] Framework Angular;
 * [x] Środowisko niezbędne do programowania aplikacji;
 
