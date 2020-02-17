@@ -1,5 +1,5 @@
 # TypeScript vs JavaScript
-> Wskazanie różnic
+> Omówienie var scope vs lec const oraz quiz dla rozluźnienia :-)
 
 #### Install
  - Run `npm install -g typescript` for install the TypeScript compiler. 
