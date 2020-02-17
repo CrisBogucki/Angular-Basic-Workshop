@@ -14,7 +14,7 @@
 * [ ] Środowisko niezbędne do programowania aplikacji;
 
 #### 2. Aspekty techniczne 
-* [ ] TypeScript;
+* [ ] TypeScript; [TypeScript vs JavaScript](https://github.com/CrisBogucki/TypeScript_vs_JavaScript)
 * [ ] Narzędzia do programowania w Angular (nodejs, ng cli, ide);
 * [ ] Pierwszy projekt;
 * [ ] Struktura projektu;
