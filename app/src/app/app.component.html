@@ -1,10 +1,26 @@
 <h1>
-  Hello world {{ title }}
+  My first <b *appBlink="50; color:'red'; message:'Hi everyone! '">directive </b> in Angular
 </h1>
 
-<label>Ng model with on change</label><br>
-<input type="text" [ngModel]="title" (change)="title = this.$event.target.value">
+<ng-template appBlink [appBlinkTime]="800" [appBlinkColor]="'pink'" [appBlinkMessage]="'Im here !'">
+  <h1>
+    My second directive in angular
+  </h1>
+</ng-template>
 
-<br><br>
-<label>Ng model with two way data bindings</label><br>
-<input type="text" [(ngModel)]="title">
+
+<div *ngIf="isActive else loading">
+  Yuppi im active!!!
+</div>
+
+<ng-template #loading>
+  <div>Loading...</div>
+</ng-template>
+
+
+<p>
+  <ng-template [ngIf]="true">
+    <div>My default template</div>
+  </ng-template>
+  <i>ng-template jest szablonem i nie renderuje się podczas uruchomienia</i>
+</p>

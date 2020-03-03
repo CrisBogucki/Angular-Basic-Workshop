@@ -9,4 +9,6 @@ export class AppComponent {
 
   title = 'workshop-ng-app';
 
+  isActive = true;
+
 }
