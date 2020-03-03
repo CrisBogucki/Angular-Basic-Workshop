@@ -19,7 +19,7 @@
 * [x] Struktura projektu;
 * [x] Pierwszy projekt;
 * [x] Omówienie modelu stanu two-way-data-binding;
-* [ ] Dyrektywa - co to jest;
+* [x] Dyrektywa - co to jest;
 * [ ] Component - co to jest;
 * [ ] Moduł - co to jest; 
 * [ ] Dekorator - co to jest;
