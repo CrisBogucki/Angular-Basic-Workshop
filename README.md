@@ -18,7 +18,7 @@
 * [x] Narzędzia do programowania w Angular (nodejs, ng cli, ide);
 * [x] Struktura projektu;
 * [x] Pierwszy projekt;
-* [ ] Omówienie modelu stanu two-way-data-binding;
+* [x] Omówienie modelu stanu two-way-data-binding;
 * [ ] Dyrektywa - co to jest;
 * [ ] Component - co to jest;
 * [ ] Moduł - co to jest; 
